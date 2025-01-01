@@ -62,11 +62,3 @@
 ###
 
 <br clear="both">
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ErebusAJ/count.svg?"  />
-</div>
-
-###
